@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessVoilationReproduce", "AccessVoilationReproduce\AccessVoilationReproduce.csproj", "{97A1B6E4-D28C-4954-A3AF-B2F39BC8ECBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAweSomeLibrary", "MyAweSomeLibrary\MyAweSomeLibrary.csproj", "{2FE4CB9E-D08C-4614-BED7-BDE265507053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A1B6E4-D28C-4954-A3AF-B2F39BC8ECBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A1B6E4-D28C-4954-A3AF-B2F39BC8ECBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A1B6E4-D28C-4954-A3AF-B2F39BC8ECBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A1B6E4-D28C-4954-A3AF-B2F39BC8ECBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE4CB9E-D08C-4614-BED7-BDE265507053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE4CB9E-D08C-4614-BED7-BDE265507053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE4CB9E-D08C-4614-BED7-BDE265507053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE4CB9E-D08C-4614-BED7-BDE265507053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B64840B-19BE-4016-88EF-C1C0F0E570B4}
+	EndGlobalSection
+EndGlobal
